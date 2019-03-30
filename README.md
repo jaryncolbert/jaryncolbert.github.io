@@ -1,2 +1,3 @@
 # jaryncolbert.github.io
-Personal Website
+
+Personal website behind http://jaryncolbert.com.
