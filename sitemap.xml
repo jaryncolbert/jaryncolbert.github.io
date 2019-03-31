@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jaryncolbert.com/resume/</loc>
+    <lastmod>2019-03-31T17:08:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaryncolbert.com/about/</loc>
+    <lastmod>2019-03-31T17:08:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaryncolbert.com/now/</loc>
+    <lastmod>2019-03-31T10:24:39-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jaryncolbert.com/</loc>
+    <lastmod>2019-03-31T17:08:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,9 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 31 Mar 2019 17:08:51 -0400</lastBuildDate>
     
 	<atom:link href="http://jaryncolbert.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resume</title>
+      <link>http://jaryncolbert.com/resume/</link>
+      <pubDate>Sun, 31 Mar 2019 17:08:51 -0400</pubDate>
+      
+      <guid>http://jaryncolbert.com/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jaryncolbert.com/about/</link>
+      <pubDate>Sun, 31 Mar 2019 17:08:46 -0400</pubDate>
+      
+      <guid>http://jaryncolbert.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Now</title>
+      <link>http://jaryncolbert.com/now/</link>
+      <pubDate>Sun, 31 Mar 2019 10:24:39 -0400</pubDate>
+      
+      <guid>http://jaryncolbert.com/now/</guid>
+      <description>I am currently based in Brooklyn, NY attending the Recurse Center, a self-directed educational retreat for programmers looking to improve their skills. While at Recurse, I have been exploring my listening history via the Spotify APIs, recreating the Sol LeWitt&amp;rsquo;s conceptual art pieces with Processing JS, and dabbling in functional programming with Elm. My Recurse batch (Spring 1, &amp;lsquo;19) ends in early May, and I will be pursuing a full-time gig as a software engineer in the greater New York City area.</description>
+    </item>
     
   </channel>
 </rss>
