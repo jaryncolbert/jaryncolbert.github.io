@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jaryncolbert.com/projects/sol-itude/</loc>
+    <lastmod>2019-07-02T18:41:42-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaryncolbert.com/projects/world-of-recurse/</loc>
+    <lastmod>2019-07-02T16:20:51-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaryncolbert.com/projects/recurse-faces/</loc>
+    <lastmod>2019-07-02T16:20:51-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jaryncolbert.com/resume/</loc>
     <lastmod>2019-03-31T17:10:23-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://jaryncolbert.com/about/</loc>
-    <lastmod>2019-04-03T18:50:58-04:00</lastmod>
+    <lastmod>2019-07-02T16:20:51-04:00</lastmod>
   </url>
   
   <url>
@@ -20,7 +35,12 @@
   
   <url>
     <loc>http://jaryncolbert.com/now/</loc>
-    <lastmod>2019-04-03T18:36:51-04:00</lastmod>
+    <lastmod>2019-07-08T17:50:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jaryncolbert.com/projects/</loc>
+    <lastmod>2019-07-02T16:20:51-04:00</lastmod>
   </url>
   
   <url>
