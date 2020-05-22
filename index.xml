@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaryn Colbert</title>
@@ -18,8 +18,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jaryncolbert.com/projects/sol-itude/</guid>
-      <description>&amp;ldquo;The idea becomes a machine that makes the art.&amp;rdquo; Sol LeWitt
- While at the Recurse Center (RC), I was introduced to the work of Conceptual Artist, Solomon &amp;ldquo;Sol&amp;rdquo; LeWitt. Sol believed that the idea behind the art was more important than its execution. His set of wall drawings were defined as seemingly simple instructions that other artists implemented and brought to life. These instructions were detailed enough to describe the work, while leaving enough ambiguity that ensured each piece would be a bit different each time that it was executed.</description>
+      <description>&amp;ldquo;The idea becomes a machine that makes the art.&amp;rdquo; Sol LeWitt While at the Recurse Center (RC), I was introduced to the work of Conceptual Artist, Solomon &amp;ldquo;Sol&amp;rdquo; LeWitt. Sol believed that the idea behind the art was more important than its execution. His set of wall drawings were defined as seemingly simple instructions that other artists implemented and brought to life. These instructions were detailed enough to describe the work, while leaving enough ambiguity that ensured each piece would be a bit different each time that it was executed.</description>
     </item>
     
     <item>
@@ -69,8 +68,8 @@ Career I have worked as a software engineer since completing a B.S.E in Computer
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jaryncolbert.com/now/</guid>
-      <description>I just finished up a stint attending the Recurse Center (RC), a self-directed educational retreat for programmers looking to improve their skills. While at Recurse, I explored my listening history via the Spotify APIs, recreated Sol LeWitt&amp;rsquo;s conceptual art with React and P5 JS, and dabbled in functional programming with Elm. Check out the Projects page for a full summary of all of my RC projects.
-After 18 (!) weeks at RC (a full Spring 1 &amp;lsquo;19 12-week batch followed by the Summer 1 &amp;lsquo;19 six-week half batch), I am currently interviewing for a full-time gig as a full-stack or back-end software developer in the greater New York City area.</description>
+      <description>I accepted a new full-time position in November as a Full-Stack Developer with Greenhouse Software, an onboarding and recruiting software company based in NYC.
+Although tough, the interview process at Greenhouse was the most transparent, timely, and respectful that I&amp;rsquo;ve ever encountered. I figured if this company aims to transform hiring, they had already completely sold me based on my experience; I wanted to be a part of bringing that magic to as many people as possible.</description>
     </item>
     
   </channel>
